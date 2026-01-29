@@ -40,3 +40,17 @@ MediVision-AI/
 ├── app.py             # Flask application
 ├── requirements.txt   # Dependencies
 └── README.md          # Project documentation
+tags : 
+medivision-ai
+medical-ai
+healthcare-ai
+medical-image-analysis
+computer-vision
+machine-learning
+deep-learning
+flask
+python
+opencv
+ai-project
+final-year-project
+internship-project
