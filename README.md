@@ -25,11 +25,7 @@ Frontend: HTML, CSS, JavaScript
 
 Backend: Python, Flask
 
-AI / ML: TensorFlow / PyTorch
-
-Image Processing: OpenCV
-
-Database: SQLite / MySQL
+AI / ML: TensorFlow 
 
 📂 Project Structure
 MediVision-AI/
